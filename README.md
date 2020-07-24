@@ -8,37 +8,37 @@
 <br>
 <p align="center">Here's some stuff I know:</p>
 <p align="center">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg"
+    <img src="/assets/devicons/vue.svg"
         alt="vuejs"
         width="40"
         height="40"
     />
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
+    <img src="/assets/devicons/html5-original-wordmark.svg"
         alt="html5"
         width="40"
         height="40"
     />
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+    <img src="/assets/devicons/javascript-original.svg"
         alt="javascript"
         width="40"
         height="40"
     />
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg"
+    <img src="/assets/devicons/laravel-plain-wordmark.svg"
         alt="laravel"
         width="40"
         height="40"
     />
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
+    <img src="/assets/devicons/mysql-original-wordmark.svg"
         alt="mysql"
         width="40"
         height="40" />
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg"
+    <img src="/assets/devicons/php-original.svg"
         alt="php"
         width="40"
         height="40"
     />
     <img
-        src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+        src="/assets/devicons/nodejs-original-wordmark.svg"
         alt="nodejs"
         width="40"
         height="40"
