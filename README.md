@@ -13,6 +13,11 @@
         width="40"
         height="40"
     />
+    <img src="/assets/devicons/react-original-wordmark.svg"
+         alt="react"
+         width="40"
+         height="40"
+     />
     <img src="/assets/devicons/html5-original-wordmark.svg"
         alt="html5"
         width="40"
