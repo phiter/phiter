@@ -8,7 +8,7 @@
 <br>
 <p align="center">Here's some stuff I know:</p>
 <p align="center">
-    <img src="assets/devicons/vue.svg"
+    <img src="assets/devicons/vuejs-original-wordmark.svg"
         alt="vuejs"
         width="40"
         height="40"
